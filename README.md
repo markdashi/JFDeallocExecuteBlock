@@ -1,0 +1,2 @@
+# JFDeallocExecuteBlock
+一行代码捕获NSObject的dealloc 方法
